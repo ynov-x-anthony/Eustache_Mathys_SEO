@@ -1,0 +1,7 @@
+# Directives d'exploration pour les bots
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# Lien vers le plan du site
+Sitemap: https://cycloshop.exemple.fr/sitemap.xml
